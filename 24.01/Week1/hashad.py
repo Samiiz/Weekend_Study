@@ -49,3 +49,5 @@ def solution3(x):
         answer = False
     
     return answer
+
+스터디 재밌다
